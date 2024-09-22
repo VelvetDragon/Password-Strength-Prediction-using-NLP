@@ -1,4 +1,4 @@
-# Password Strength Prediction Project
+# Password Strength Prediction
 
 ## Overview
 This project aims to predict the strength of a password based on various features such as length, character frequency, and special characters. It uses machine learning techniques to classify passwords into three categories: weak, normal, and strong.
