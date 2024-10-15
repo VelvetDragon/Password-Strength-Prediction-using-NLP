@@ -16,7 +16,7 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone git clone https://github.com/VelvetDragon/Password-Strength-Prediction-using-NLP.git
+   git clone https://github.com/VelvetDragon/Password-Strength-Prediction-using-NLP.git
    ```
 
 2. Navigate to the project directory:
